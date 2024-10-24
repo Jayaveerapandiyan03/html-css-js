@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: cursive;
+}
+
+.headingTxt {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.headingDiv {
+  padding: 0px 0 150px 150px;
+  width: 80%;
+}
